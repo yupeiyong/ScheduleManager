@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"  
+    android:background="@drawable/rss_directory" 
+>
+<LinearLayout
+    android:id="@+id/LinearLayout01"
+    android:layout_width="fill_parent"
+    android:layout_height="40dip"  
+    android:orientation="horizontal"  
+    android:layout_marginTop="5dip"    
+>
+<TextView    
+    android:id="@+id/TextView01"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" 
+    android:text="@string/search"  
+    android:layout_marginLeft="10dip"
+    android:layout_marginTop="5dip" 
+></TextView>
+<ImageView
+    android:id="@+id/ImageView01"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="230dip"
+>
+</ImageView>
+</LinearLayout>
+<LinearLayout
+    android:id="@+id/LinearLayout02"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"  
+    android:orientation="horizontal" 
+    android:background="@drawable/searchlist"     
+>
+<EditText
+    android:id="@+id/EditText02"
+    android:layout_width="270dip"
+    android:layout_height="37dip"
+    android:layout_marginTop="7dip"
+    android:layout_marginLeft="20dip"  
+>
+</EditText>
+<ImageView
+    android:id="@+id/ImageView03"
+    android:layout_width="30dip"
+    android:layout_height="30dip"  
+    android:layout_marginTop="7dip"
+></ImageView>
+</LinearLayout>
+<LinearLayout
+    android:id="@+id/LinearLayout03"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"  
+    android:orientation="horizontal"
+    android:background="@drawable/index_content_cover"  
+>
+<LinearLayout
+    android:id="@+id/LinearLayout04"
+    android:layout_width="60dip"
+    android:layout_height="fill_parent"  
+    android:orientation="vertical"      
+>
+<ListView
+  android:id="@+id/ListView02"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"  
+  android:orientation="horizontal"  
+  android:cacheColorHint="#00000000"
+>
+</ListView>
+</LinearLayout>
+<LinearLayout
+  android:id="@+id/LinearLayout05"
+  android:layout_width="250dip"
+  android:layout_height="fill_parent"  
+  android:orientation="vertical"
+  android:layout_marginLeft="10dip"  
+>
+<ListView
+  android:id="@+id/ListView01"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"  
+  android:orientation="horizontal"
+>
+</ListView>
+</LinearLayout>
+</LinearLayout>
+</LinearLayout>

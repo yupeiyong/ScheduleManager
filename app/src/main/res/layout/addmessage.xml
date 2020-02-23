@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	android:orientation="vertical"
+	android:gravity="center"
+	android:background="@drawable/total_bg"
+	
+	xmlns:android="http://schemas.android.com/apk/res/android">
+   
+   <ListView
+   android:id="@+id/addmessage"
+   android:layout_width="fill_parent"
+   android:layout_height="wrap_content"
+   android:background="@drawable/total_bg"
+   ></ListView>	
+</LinearLayout>

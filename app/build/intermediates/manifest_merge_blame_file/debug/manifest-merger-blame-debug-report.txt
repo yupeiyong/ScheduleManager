@@ -1,0 +1,119 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.bn.sn"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_SMS" />
+11-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:24:2-64
+11-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:24:19-61
+12    <uses-permission android:name="android.permission.READ_CONTACTS" />
+12-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:25:2-69
+12-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:25:19-66
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:26:2-64
+13-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:26:19-61
+14    <!-- 声明需要读写存储卡权限 -->
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:28:5-81
+15-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:28:22-78
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+16-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:29:5-80
+16-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:29:22-77
+17    <!-- 声明需要录音权限 -->
+18    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+18-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:31:3-69
+18-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:31:20-66
+19    <!-- Include required permissions for Google Maps API to run. -->
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->[com.google.android.gms:play-services-maps:15.0.1] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\3e113f994628ea38d2d3c4ad5240714a\play-services-maps-15.0.1\AndroidManifest.xml:23:5-79
+20-->[com.google.android.gms:play-services-maps:15.0.1] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\3e113f994628ea38d2d3c4ad5240714a\play-services-maps-15.0.1\AndroidManifest.xml:23:22-76
+21
+22    <uses-feature
+22-->[com.google.android.gms:play-services-maps:15.0.1] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\3e113f994628ea38d2d3c4ad5240714a\play-services-maps-15.0.1\AndroidManifest.xml:26:5-28:35
+23        android:glEsVersion="0x00020000"
+23-->[com.google.android.gms:play-services-maps:15.0.1] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\3e113f994628ea38d2d3c4ad5240714a\play-services-maps-15.0.1\AndroidManifest.xml:27:9-41
+24        android:required="true" />
+24-->[com.google.android.gms:play-services-maps:15.0.1] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\3e113f994628ea38d2d3c4ad5240714a\play-services-maps-15.0.1\AndroidManifest.xml:28:9-32
+25
+26    <application
+26-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:6:5-23:19
+27        android:debuggable="true"
+28        android:icon="@drawable/icon"
+28-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:6:18-47
+29        android:label="@string/app_name" >
+29-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:6:48-80
+30        <activity
+30-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:7:9-16:22
+31            android:name="com.bn.sn.ScheduleManagerActivity"
+31-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:7:19-58
+32            android:label="@string/app_name"
+32-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:8:19-51
+33            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+33-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:10:19-77
+34            android:windowSoftInputMode="adjustUnspecified|adjustPan|stateHidden" >
+34-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:9:19-88
+35            <intent-filter>
+35-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:12:13-15:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:13:17-69
+36-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:13:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:14:17-77
+38-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:14:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity
+41-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:17:12-21:23
+42            android:name="com.bn.sn.AlermActivity"
+42-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:18:10-39
+43            android:label="@string/app_name"
+43-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:19:13-45
+44            android:theme="@style/transparent" />
+44-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:20:13-47
+45
+46        <receiver
+46-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:22:3-71
+47            android:name="com.bn.sn.AlermReceiver"
+47-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:22:13-42
+48            android:process=":remote" />
+48-->F:\Projects\Android\ScheduleManager\app\src\main\AndroidManifest.xml:22:43-68
+49
+50        <meta-data
+50-->[com.google.maps.android:android-maps-utils:0.5] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\9d3945cf7cc20d124f49f6c64e7b78bc\android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+51            android:name="com.google.android.gms.version"
+51-->[com.google.maps.android:android-maps-utils:0.5] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\9d3945cf7cc20d124f49f6c64e7b78bc\android-maps-utils-0.5\AndroidManifest.xml:9:13-58
+52            android:value="@integer/google_play_services_version" />
+52-->[com.google.maps.android:android-maps-utils:0.5] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\9d3945cf7cc20d124f49f6c64e7b78bc\android-maps-utils-0.5\AndroidManifest.xml:10:13-66
+53
+54        <activity
+54-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\fb6e9d6481d9457758e78159c8f7d872\play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+55            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+55-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\fb6e9d6481d9457758e78159c8f7d872\play-services-base-15.0.1\AndroidManifest.xml:24:13-79
+56            android:exported="false"
+56-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\fb6e9d6481d9457758e78159c8f7d872\play-services-base-15.0.1\AndroidManifest.xml:25:13-37
+57            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+57-->[com.google.android.gms:play-services-base:15.0.1] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\fb6e9d6481d9457758e78159c8f7d872\play-services-base-15.0.1\AndroidManifest.xml:26:13-72
+58
+59        <meta-data
+59-->[com.android.support:support-v4:26.1.0] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\9f83784eeafe2d776a50e825ed305ad1\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+60            android:name="android.support.VERSION"
+60-->[com.android.support:support-v4:26.1.0] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\9f83784eeafe2d776a50e825ed305ad1\support-v4-26.1.0\AndroidManifest.xml:27:13-51
+61            android:value="26.1.0" />
+61-->[com.android.support:support-v4:26.1.0] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\9f83784eeafe2d776a50e825ed305ad1\support-v4-26.1.0\AndroidManifest.xml:28:13-35
+62        <meta-data
+62-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\d0f6449185399ce77e6ff49656abaac3\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+63            android:name="android.arch.lifecycle.VERSION"
+63-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\d0f6449185399ce77e6ff49656abaac3\runtime-1.0.0\AndroidManifest.xml:26:13-58
+64            android:value="27.0.0-SNAPSHOT" />
+64-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\27583\.gradle\caches\transforms-2\files-2.1\d0f6449185399ce77e6ff49656abaac3\runtime-1.0.0\AndroidManifest.xml:27:13-44
+65    </application>
+66
+67</manifest>

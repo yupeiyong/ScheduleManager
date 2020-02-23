@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:gravity="center"
+  >
+  <LinearLayout
+  android:orientation="vertical"
+  android:background="@drawable/alerm_bg"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:paddingTop="15dp"
+  android:layout_gravity="center"
+  >
+	  <TextView
+	  	android:textColor="@color/white"
+	  	android:textSize="20dp"
+	  	android:text="提醒： 时间到！"
+	  	android:paddingLeft="15dp"
+	  	android:layout_width="fill_parent"
+	  	android:layout_height="wrap_content"
+	  ></TextView>
+	  <TextView
+	  	android:id="@+id/showTitle"
+	  	android:textColor="@color/white"
+	  	android:textSize="18dp"
+	  	android:paddingLeft="15dp"
+	  	android:paddingTop="10dp"
+	  	android:layout_width="fill_parent"
+	  	android:layout_height="wrap_content"
+	  ></TextView>
+	  <Button
+	  	android:id="@+id/knowbutton"
+	  	android:text="@string/okbuttontext"
+	  	android:layout_gravity="center_horizontal"
+	  	android:layout_width="wrap_content"
+	  	android:layout_height="wrap_content"
+	  ></Button>
+  </LinearLayout>
+</LinearLayout>

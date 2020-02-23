@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ScheduleManagerActivity!</string>
+    <string name="app_name">ScheduleManager</string>
+    <string name="pwd">密\t\t码:</string>
+    <string name="repwd">确定密码:</string>
+    <string name="setpwd">开启密码:</string>
+    <string name="canclepwd">取消密码</string>
+    <string name="resetpwd">修改密码</string>
+    <string name="mgsinpwd">请输入密码</string>
+    <string name="okbuttontext">确\t\t定</string>
+    <string name="canclebuttontext">取\t\t消</string>
+    <string name="tosetpwdtext">设置密码</string>
+    <string name="successset">设置成功</string>
+    <string name="remind">请将内容输入完整</string>
+    <string name="previouspwd">原有密码:</string>
+    <string name="settext">设置</string>
+    <string name="newd">新建日程</string>
+    <string name="edit">编辑日程</string>
+    <string name="delete">删除日程</string>
+    <string name="back">返回页面</string>
+    <string name="gobacktoday">回今天</string>
+    <string name="about">关于</string>
+    <string name="aboutbrief">BN日程小管家\n版\t本：1.0\n百纳科技\t版权所有</string>
+    <string name="aboutexplan">\t\t非常感谢您使用百纳日程管理软件，您可通过此软件方便的管理自己的日程事务。</string>
+    <string name="setbells">铃声设置</string>
+
+
+
+
+
+    <string name="fileeditt">对该日志的操作</string>
+    <string name="search"> 搜索</string>
+    <string name="all"> 全部</string>
+    <string name="play"> 播放</string>
+
+    <string name="addpic">请添加图片</string>
+	<string name="ceshi"></string>
+    <string name="ok">确定</string>
+    <string name="cancle">取消</string>
+    <string name="contact">联系人:</string>
+    <string name="location">地点:</string>
+    <string-array name="cftx">
+        <item>整点提醒</item>
+        <item>提前5分钟</item>
+        <item>提前10分钟</item>
+        <item>提前30分钟</item>
+        <item>提前一小时</item>
+        <item>提前一天</item>
+        <item>提前一周</item>
+      </string-array>
+   <string-array  name="fujianlist">
+      <item>添加好友</item>
+      <item>添加短信</item>
+      <item>添加图片</item>
+      <item>添加声音</item>
+      <item>添加地点</item>
+     </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

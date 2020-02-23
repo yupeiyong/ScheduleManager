@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/calendar/BNCalendar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/calendar/BehindBlankActionListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/calendar/ControlCenterActionListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/calendar/FrontBlankActionListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/calendar/NextActionLinstener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/calendar/PrevActionLinstener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/AlermActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/AlermReceiver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/BNmapp.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/BnBeWeekViewListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/BnScheduleManagerView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/BnScheduleViewListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/BnWeekView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/ChangeDateDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/ChangeTimeDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/Constant.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/EditDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/ExpandableAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/ExpandableAdapterER.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/FileEditDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/GridAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/LoginDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/MyBallonOverlay.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/MySurfaceView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/PhotoDialog.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/ScheduleManagerActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/bn/sn/addmusicDialog.java" charset="GBK" />
+  </component>
+</project>

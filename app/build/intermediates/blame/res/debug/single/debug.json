@@ -1,0 +1,1242 @@
+[
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_show6.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\show6.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num12.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num12.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_amu_bubble_mask.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\drawable-xxhdpi-v4\\amu_bubble_mask.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_kawayi.mp3.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\raw\\kawayi.mp3"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_addperson.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\addperson.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_alarm.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\alarm.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\76255774f047056d070aaccfb1365509\\support-media-compat-26.1.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_fatherbyhand.mp3.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\raw\\fatherbyhand.mp3"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_kanong.mp3.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\raw\\kanong.mp3"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhou044.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\zhou044.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num2.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num2.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_newschedule.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\newschedule.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_divideline.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\divideline.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num13.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num13.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_girlflower.mp3.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\raw\\girlflower.mp3"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_amu_bubble_mask.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\drawable-xhdpi-v4\\amu_bubble_mask.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_moning.mp3.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\raw\\moning.mp3"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_plus.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\plus.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cancle.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\cancle.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num1.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num1.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum29.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum29.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_nested_multigeometry.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_nested_multigeometry.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_open.gif.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\open.gif"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_show7.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\show7.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_amu_info_window.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\layout\\amu_info_window.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhou01.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\zhou01.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum28.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum28.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_alermdialog.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\alermdialog.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_search.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_poly_style_boolean_numeric.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_show4.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\show4.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_monthviewicon.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\monthviewicon.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_fileedit.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\fileedit.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum10.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum10.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shezhi.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\shezhi.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num21.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num21.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_index_content_cover.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\index_content_cover.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\drawable-xxhdpi-v4\\amu_bubble_shadow.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jiantou.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\jiantou.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_android.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\android.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_gallery.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\gallery.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_show9.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\show9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_total_bg.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\total_bg.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num11.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num11.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_editlayout.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\editlayout.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dateminus1.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\dateminus1.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_multiple_placemarks.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_multiple_placemarks.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_visibility_ground_overlay.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wanshang.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\wanshang.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dateadd1.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\dateadd1.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num14.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num14.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\76255774f047056d070aaccfb1365509\\support-media-compat-26.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num31.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num31.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum8.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum8.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_close.gif.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\close.gif"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_prev.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\prev.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum26.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum26.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num16.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num16.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num23.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num23.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum1.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum1.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_play.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhou055.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\zhou055.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bgg.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\bgg.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_cdata.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_cdata.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_calendar_bg.gif.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\calendar_bg.gif"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num15.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num15.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhou03.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\zhou03.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_setpassword.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\setpassword.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_basic_folder.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_basic_folder.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhou077.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\zhou077.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\76255774f047056d070aaccfb1365509\\support-media-compat-26.1.0\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bell_bg.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\bell_bg.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num4.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num4.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum2.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum2.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_systemicon.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\systemicon.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_alerm_bg.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\alerm_bg.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delete.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_musicbox.mp3.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\raw\\musicbox.mp3"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num22.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num22.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_show10.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\show10.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_multigeometry_placemarks.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_multigeometry_placemarks.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_title_bg.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\main_title_bg.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dateadd.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\dateadd.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num3.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num3.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_inline_style.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_inline_style.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dateminus.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\dateminus.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dialog.9.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\dialog.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_whenidream.mp3.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\raw\\whenidream.mp3"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num10.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num10.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num29.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num29.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_griditem.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\griditem.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edit.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_calendaricon.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\calendaricon.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_cancleorresetpwd.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\cancleorresetpwd.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fujian.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\fujian.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum27.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum27.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_verline.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\verline.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_groupitem.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\groupitem.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_show5.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\show5.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num30.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num30.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum7.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum7.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_monthviewshow.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\monthviewshow.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_widget_month_week_white_bg.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\widget_month_week_white_bg.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\76255774f047056d070aaccfb1365509\\support-media-compat-26.1.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_default_balloon.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_default_balloon.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhou02.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\zhou02.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rlsz.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\rlsz.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num27.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num27.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_settime.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\settime.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhou06.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\zhou06.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_selectedbg.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\selectedbg.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\76255774f047056d070aaccfb1365509\\support-media-compat-26.1.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\drawable-xhdpi-v4\\amu_bubble_shadow.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum4.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum4.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum23.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum23.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num9.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum31.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum31.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_selectdate.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\selectdate.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num26.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num26.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_ground_overlay.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_ground_overlay.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num28.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num28.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_show0.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\show0.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rcgl.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\rcgl.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back_to_today_bg.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\back_to_today_bg.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhou022.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\zhou022.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_calendar_bgg.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\calendar_bgg.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_amu_webview.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\layout\\amu_webview.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xiawu.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\xiawu.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_sky.mp3.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\raw\\sky.mp3"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum22.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum22.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_line.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\line.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum5.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum5.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhou07.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\zhou07.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num19.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num19.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_editdelete.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\editdelete.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num8.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num8.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_addmessage.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\addmessage.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum13.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum13.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dayviewicon.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\dayviewicon.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_kanongyuanban.mp3.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\raw\\kanongyuanban.mp3"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\76255774f047056d070aaccfb1365509\\support-media-compat-26.1.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rss_directory.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\rss_directory.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum6.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum6.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_next.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\76255774f047056d070aaccfb1365509\\support-media-compat-26.1.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num7.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num7.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum25.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum25.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_show1.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\show1.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_undo.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\undo.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_unknwown_folder.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_unknwown_folder.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_star_check.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\star_check.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num24.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num24.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_exiticon.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\exiticon.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_playbutton1.gif.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\playbutton1.gif"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_selecttime_bg.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\selecttime_bg.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num17.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num17.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\76255774f047056d070aaccfb1365509\\support-media-compat-26.1.0\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_basic_placemark.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_basic_placemark.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhou.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\zhou.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dukeb.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\dukeb.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bncalendar_bg.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\bncalendar_bg.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum30.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum30.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhou011.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\zhou011.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_search.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_addcontacts.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\addcontacts.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum3.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum3.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_kanongpanio.mp3.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\raw\\kanongpanio.mp3"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dateadd2.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\dateadd2.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhou033.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\zhou033.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num5.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num5.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_searchlist.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\searchlist.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_unsupported.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_unsupported.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_di.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\di.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_extended_data.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_extended_data.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_setbells.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\setbells.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_couldthisbelove.mp3.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\raw\\couldthisbelove.mp3"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_show3.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\show3.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_filenew.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\filenew.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gourpexpandle.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\gourpexpandle.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum12.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum12.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_nested_folders.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_nested_folders.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_weekviewicon.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\weekviewicon.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum9.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_verline2.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\verline2.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_ok.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\button_ok.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\76255774f047056d070aaccfb1365509\\support-media-compat-26.1.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group_down.9.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\group_down.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_about_bg.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\about_bg.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_ballon_gx_prefix.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_ballon_gx_prefix.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fujianimage.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\fujianimage.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shangwu.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\shangwu.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhou04.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\zhou04.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tool_almanac_query_icon.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\tool_almanac_query_icon.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_helpericon.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\helpericon.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_show8.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\show8.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_kanongjita.mp3.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\raw\\kanongjita.mp3"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num25.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num25.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dd.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\dd.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_messagicon.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\messagicon.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_amu_text_bubble.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_audiodelete.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\audiodelete.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhou05.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\zhou05.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num18.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num18.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_bnmap.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\bnmap.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_save.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\save.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_draw_order_ground_overlay.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_poly_style_boolean_alpha.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_poly_style_boolean_alpha.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dateminus2.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\dateminus2.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dukea.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\dukea.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_stop.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_horiline.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\horiline.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhou066.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\zhou066.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num0.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num0.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_selectdateicon.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\selectdateicon.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_document_nest.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_document_nest.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_week.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\week.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ballon.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\ballon.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_show2.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\show2.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_addmusic.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\addmusic.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\fb6e9d6481d9457758e78159c8f7d872\\play-services-base-15.0.1\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num6.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num6.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\40a3342781d7a4b08caa38af177e1b14\\support-compat-26.1.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_set.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\set.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_selecticon.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\selecticon.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_num20.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\num20.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum24.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum24.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abouticon.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\abouticon.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\layout_childitem.xml.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\layout\\childitem.xml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_group_right.9.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\group_right.9.png"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_ground_overlay_color.kml.flat",
+        "source": "C:\\Users\\27583\\.gradle\\caches\\transforms-2\\files-2.1\\9d3945cf7cc20d124f49f6c64e7b78bc\\android-maps-utils-0.5\\res\\raw\\amu_ground_overlay_color.kml"
+    },
+    {
+        "merged": "F:\\Projects\\Android\\ScheduleManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nenum11.png.flat",
+        "source": "F:\\Projects\\Android\\ScheduleManager\\app\\src\\main\\res\\drawable-hdpi\\nenum11.png"
+    }
+]

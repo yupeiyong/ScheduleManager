@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:background="@drawable/total_bg">
+  	<LinearLayout
+  	android:orientation="horizontal"
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:background="@drawable/main_title_bg"
+  	android:gravity="center_vertical"
+  	>
+	  <TextView
+	  android:text="@string/about"
+	  android:textColor="@color/black"
+	  android:textSize="25dip"
+	  android:layout_width="wrap_content"
+	  android:layout_height="wrap_content"
+	  android:paddingLeft="5dp"
+	  ></TextView>
+	  <Button
+	  	android:id="@+id/backbutton"
+	  	android:background="@drawable/back"
+	  	android:layout_width="wrap_content"
+	  	android:layout_height="wrap_content"
+	  	android:layout_marginLeft="230dp"
+	  	android:layout_marginTop="2dp"
+	  ></Button>
+  </LinearLayout>
+  <LinearLayout
+  	android:orientation="horizontal"
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:gravity="center_horizontal"
+  	android:paddingTop="10dp"
+  	>
+  	<ImageView
+  		android:src="@drawable/abouticon"
+  		android:layout_width="wrap_content"
+  		android:layout_height="wrap_content"
+  	></ImageView>
+  	<TextView
+  		android:text="@string/aboutbrief"
+  		android:textSize="20dp"
+  		android:textColor="@color/aboutcolor"
+  		android:layout_width="wrap_content"
+  		android:layout_height="wrap_content"
+  	></TextView>
+
+  </LinearLayout>
+  <TextView
+  	android:text="@string/aboutexplan"
+  	android:textSize="18dp"
+  	android:textColor="@color/aboutcolor"
+  	android:layout_width="wrap_content"
+  	android:layout_height="wrap_content"
+  	
+  ></TextView>
+  
+</LinearLayout>

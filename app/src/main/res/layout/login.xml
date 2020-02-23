@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="240dp"
+  android:layout_height="fill_parent"
+
+  android:orientation="vertical">
+  
+ <LinearLayout
+ 	android:orientation="horizontal"
+ 	android:layout_width="fill_parent"
+ 	android:layout_height="wrap_content"
+ >
+  <TextView
+  	android:id="@+id/textpwd"
+  	android:layout_width="wrap_content"
+  	android:layout_height="wrap_content"
+  	android:text="@string/pwd"
+  	android:textSize="15dp"
+  	android:textColor="@color/white"
+  	android:paddingLeft="5dp"
+  	android:paddingRight="5dp"
+  ></TextView>
+  <EditText
+  	android:id="@+id/inputpwd"
+  	android:password="true"
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:paddingRight="20dp"
+  ></EditText>
+  
+  </LinearLayout>
+  <LinearLayout
+ 	android:orientation="horizontal"
+ 	android:layout_width="fill_parent"
+ 	android:layout_height="wrap_content"
+ >
+  <Button
+  	android:id="@+id/okbutton"
+  	android:layout_width="100dp"
+  	android:layout_height="wrap_content"
+  	android:text="@string/okbuttontext"
+  	android:layout_gravity="left"
+  	android:paddingLeft="5dp"
+  ></Button>
+  <Button
+  	android:id="@+id/cancelbutton"
+  	android:layout_width="100dp"
+  	android:layout_height="wrap_content"
+  	android:text="@string/canclebuttontext"
+  	android:layout_gravity="right"
+  	android:paddingRight="5dp"
+  ></Button>
+  
+  </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content">
+  <TextView
+  android:layout_height="wrap_content"
+  android:layout_width="fill_parent" 
+  android:id="@+id/childLabel"
+  android:textColor="@color/black"
+  android:textSize="15dip" 
+  android:text="无日程"
+  android:paddingBottom="5dip" 
+  android:paddingLeft="35dip" 
+  android:paddingRight="10dip" 
+  android:paddingTop="10dip"
+ />
+  
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="black">#000000</color>
+<color name="lineColor">#FFFACD</color>
+<color name="white">#FFFFFF</color>
+<color name="aboutcolor">#D2691E</color>
+<color name="transparent">#0000</color>
+<color name="bellbg">#FFF8DC</color>
+<color name="remindcolor">#FF7F50</color>
+<color name="green">#041aee</color>
+</resources>

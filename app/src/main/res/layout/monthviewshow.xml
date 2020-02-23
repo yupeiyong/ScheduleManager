@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <FrameLayout
+	 android:orientation="vertical"
+	 android:layout_width="fill_parent"
+	 android:layout_height="fill_parent"
+	 xmlns:android="http://schemas.android.com/apk/res/android"
+ 	 android:background="@drawable/total_bg"
+	  >
+	  <LinearLayout
+	   	android:layout_width="fill_parent"
+	   	android:layout_height="wrap_content"
+	   	android:orientation="vertical"
+	   >
+	  	<!-- 日历控件-->
+		<com.bn.calendar.BNCalendar
+		android:id="@+id/calendar01"
+		android:layout_width="fill_parent"
+	  	android:layout_height="280dip"
+		></com.bn.calendar.BNCalendar>	
+	  	<!-- 日历下面用于显示几月几日和距离今天多少天的部分 ,横向的-->
+		<LinearLayout
+			android:id="@+id/linear01"
+		   	android:layout_width="fill_parent"
+		   	android:layout_height="wrap_content"
+		   	android:orientation="horizontal"
+		   	android:paddingLeft="8dp"
+		   	>
+			<TextView
+		    android:id="@+id/monthday01"
+		    android:layout_width="140dp"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="left"
+		    android:textColor="@color/black"
+		    android:textSize="18dp"
+		    ></TextView>
+		    <!-- 若不在几天则显示回今天 -->
+		    <Button
+		    	android:id="@+id/gobacktoday"
+		    	android:layout_width="wrap_content"
+		    	android:layout_height="wrap_content"
+		    	android:background="@drawable/back_to_today_bg"
+		    	android:text="@string/gobacktoday"
+		    	android:visibility="invisible"
+		    	android:layout_gravity="center_vertical"
+		    >
+		    </Button>
+		    <!-- 添加新日程的按钮 -->
+		    <Button
+		    	android:id="@+id/addbutton01"
+		    	android:background="@drawable/add"
+		    	android:layout_width="wrap_content"
+		    	android:layout_height="wrap_content"
+		    	android:layout_gravity="right"
+		    	android:layout_marginLeft="48dp"
+		    ></Button>
+		</LinearLayout>
+		<!-- 中间绘制 -->
+		<ImageView
+			android:src="@drawable/divideline"
+			android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_marginLeft="5dp"
+		></ImageView>
+		<TextView
+		android:text="日程分类："
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginLeft="8dp"
+		android:textColor="@color/remindcolor"
+		></TextView>
+		<!-- 下拉list控件 -->
+		<ExpandableListView
+			android:id="@+id/exlist01"
+			android:layout_height="fill_parent" 
+			android:layout_width="fill_parent"
+			android:cacheColorHint="#00000000"
+			android:layout_marginLeft="5dp"
+		></ExpandableListView>
+	</LinearLayout>
+	<!-- 抽屉控件 -->
+  	<LinearLayout
+	   	android:id="@+id/linear02"
+	   	android:layout_width="fill_parent"
+	   	android:layout_height="250dp"
+	   	android:layout_gravity="bottom"
+	    >
+		  <SlidingDrawer
+		  	android:id="@+id/sliding01"
+		  	android:layout_width="fill_parent"
+		  	android:layout_height="wrap_content"
+		  	android:handle="@+id/handleImage"
+		  	android:content="@+id/contentShow"
+		  	android:orientation="vertical"		  	
+		  >
+		  <!--抽屉的拉手图片，即在外面显示的 部分-->
+		  	<ImageView
+		  		android:id="@+id/handleImage"
+		  		android:layout_width="wrap_content"
+		  		android:layout_height="wrap_content"
+		  		android:src="@drawable/open"
+		  	></ImageView>
+		  	<!-- 隐藏的部分内容在一个gridView中每行有三个元素 -->
+		  	<GridView
+		  	android:id="@+id/contentShow"
+		  	android:layout_width="wrap_content"
+		  	android:layout_height="wrap_content"
+		  	android:numColumns="3"
+		  	android:gravity="center"
+		  	android:background="@drawable/about_bg"
+		  	></GridView>
+		  </SlidingDrawer>
+	  </LinearLayout>  
+</FrameLayout>
+  

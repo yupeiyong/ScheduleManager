@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@drawable/total_bg"
+  android:orientation="vertical">
+  <!-- 上方导航 -->
+  <LinearLayout
+  	android:orientation="horizontal"
+  	android:layout_width="fill_parent"
+  	android:layout_height="wrap_content"
+  	android:background="@drawable/main_title_bg"
+  	android:gravity="center_vertical"
+  >
+	  <TextView
+	  android:text="@string/settext"
+	  android:textColor="@color/black"
+	  android:textSize="25dip"
+	  android:layout_width="wrap_content"
+	  android:layout_height="wrap_content"
+	  android:paddingLeft="5dp"
+	  ></TextView>
+	  <Button
+	  	android:id="@+id/backbutton"
+	  	android:background="@drawable/back"
+	  	android:layout_width="wrap_content"
+	  	android:layout_height="wrap_content"
+	  	android:layout_marginLeft="230dp"
+	  	android:layout_marginTop="2dp"
+	  ></Button>
+  </LinearLayout>
+	<LinearLayout
+	  	android:orientation="vertical"
+	  	android:layout_width="fill_parent"
+	  	android:layout_height="wrap_content"
+	  	android:layout_gravity="center"
+
+	  >
+	  <!-- 设置密码按钮 -->
+		  <Button
+		  	android:id="@+id/setpwdbutton"
+		  	android:layout_width="fill_parent"
+		  	android:layout_height="wrap_content"
+		  	android:text="@string/tosetpwdtext"
+		  	android:textColor="@color/black"
+			android:textSize="20dp"
+			android:padding="5dp"
+		  ></Button>
+		  <!-- 设置铃声按钮 -->
+		  <Button
+		  	android:id="@+id/setbellsbutton"
+		  	android:layout_width="fill_parent"
+		  	android:layout_height="wrap_content"
+		  	android:text="@string/setbells"
+		  	android:textColor="@color/black"
+			android:textSize="20dp"
+			android:padding="5dp"
+			android:layout_marginTop="5dip"
+		  ></Button>
+	</LinearLayout>
+</FrameLayout>

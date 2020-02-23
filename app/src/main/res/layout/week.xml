@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"  
+    android:background="@drawable/calendar_bg"
+>
+<com.bn.sn.BnWeekView
+ android:id="@+id/BnWeekView01" 
+ android:layout_width="wrap_content"
+ android:layout_height="130dip"
+></com.bn.sn.BnWeekView>
+<LinearLayout
+ android:id="@+id/LinearLayout01" 
+ android:layout_width="fill_parent"
+ android:layout_height="40dip"
+>
+<TextView
+ android:id="@+id/TextView01" 
+ android:layout_width="260dip"
+ android:layout_height="40dip"
+ android:textColor="@color/black"
+ android:textSize="18dp"
+></TextView>
+<ImageView
+ android:id="@+id/ImageView01" 
+ android:layout_width="30dip"
+ android:layout_height="30dip"
+></ImageView>
+</LinearLayout>
+<FrameLayout
+ android:orientation="vertical"
+ android:layout_width="fill_parent"
+ android:layout_height="fill_parent">
+<ListView
+ android:id="@+id/ListView01" 
+ android:layout_width="fill_parent"
+ android:layout_height="250dip"
+ android:cacheColorHint="#00000000"
+></ListView>
+<LinearLayout
+	   	android:id="@+id/linear02"
+	   	android:layout_width="fill_parent"
+	   	android:layout_height="250dp"
+	   	android:layout_gravity="bottom"
+	    >
+		  <SlidingDrawer
+		  	android:id="@+id/sliding01"
+		  	android:layout_width="fill_parent"
+		  	android:layout_height="wrap_content"
+		  	android:handle="@+id/handleImage"
+		  	android:content="@+id/contentShow"
+		  	android:orientation="vertical"		  	
+		  >		 
+		  	<ImageView
+		  		android:id="@+id/handleImage"
+		  		android:layout_width="wrap_content"
+		  		android:layout_height="wrap_content"
+		  		android:src="@drawable/open"
+		  	></ImageView>		  	
+		  	<GridView
+		  	android:id="@+id/contentShow"
+		  	android:layout_width="wrap_content"
+		  	android:layout_height="wrap_content"
+		  	android:numColumns="3"
+		  	android:gravity="center"
+		  	android:background="@drawable/about_bg"
+		  	></GridView>
+		  </SlidingDrawer>
+	  </LinearLayout>
+</FrameLayout>
+</LinearLayout>

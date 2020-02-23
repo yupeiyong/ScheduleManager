@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="250dip"
+    android:layout_height="250dip"
+    android:background="@drawable/total_bg"
+    android:gravity="center_vertical"
+    >
+<LinearLayout
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:orientation="horizontal"
+  android:gravity="center_horizontal">
+   <TextView
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:textSize="20dp"
+     android:textColor="@color/black"
+     android:text="录音时间:"/>
+   <TextView
+     android:id="@+id/showtime"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:textSize="20dp"
+     android:textColor="@color/black"
+     android:text="00:00"/>
+</LinearLayout>
+<LinearLayout
+   android:layout_width="fill_parent"
+   android:layout_height="wrap_content"
+   android:gravity="center_horizontal"
+   android:orientation="horizontal"
+   >
+   <Button
+      android:id="@+id/startbt"  
+      android:layout_width="wrap_content" 
+      android:layout_height="wrap_content" 
+      android:text="开始"/>
+        
+   <Button
+    android:id="@+id/endbt"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="停止"/>
+</LinearLayout>
+   <LinearLayout
+   	android:id="@+id/showmusiclnear"
+   	android:orientation="vertical"
+   	android:layout_width="fill_parent"
+   	android:layout_height="wrap_content"
+   	android:gravity="center_horizontal"
+   	android:paddingTop="20dp"
+   >
+   	<TextView
+   		android:id="@+id/musicnametv"
+   		android:textSize="18dp"
+   		android:textColor="@color/black"
+   		android:layout_width="wrap_content"
+   		android:layout_height="wrap_content"
+   	></TextView>
+   	<LinearLayout
+   		android:orientation="horizontal"
+   		android:gravity="center_horizontal"
+   		android:layout_width="fill_parent"
+   		android:layout_height="wrap_content"
+   	>
+	   	<Button
+	   		android:id="@+id/playbutton"
+	   		android:background="@drawable/play"
+	   		android:layout_width="wrap_content"
+	   		android:layout_height="wrap_content"
+	   	></Button>
+	   	<Button
+	   		android:id="@+id/deletebutton"
+	   		android:background="@drawable/audiodelete"
+	   		android:layout_width="wrap_content"
+	   		android:layout_height="wrap_content"
+	   		android:layout_marginLeft="5dp"
+	   	></Button>
+   	</LinearLayout>
+   	
+   </LinearLayout>
+   <LinearLayout
+   	  android:orientation="horizontal"
+   	  android:gravity="center_horizontal"
+   	  android:layout_width="fill_parent"
+   	  android:layout_height="wrap_content">
+   	  <Button
+   	    android:id="@+id/soundsave"
+   	    android:layout_width="wrap_content"
+   	    android:layout_height="wrap_content"
+   	    android:text="@string/ok"/>
+   	  <Button
+   	    android:id="@+id/soundcancle"
+   	    android:layout_width="wrap_content"
+   	    android:layout_height="wrap_content"
+   	    android:text="@string/cancle"/>
+   	  </LinearLayout>
+    
+</LinearLayout>
